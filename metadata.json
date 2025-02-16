@@ -1,0 +1,6 @@
+{
+  "name": "Penguin Coin",
+  "symbol": "PENG",
+  "description": "Test token for gamification demo.",
+  "image": "https://raw.githubusercontent.com/eamongoodwin/token/main/coin.jpg"
+}
