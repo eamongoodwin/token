@@ -1,6 +1,6 @@
 {
-  "name": "Penguin Coin",
-  "symbol": "PENG",
+  "name": "Cyber Coin",
+  "symbol": "CYBR",
   "description": "Test token for gamification demo.",
   "image": "https://raw.githubusercontent.com/eamongoodwin/token/main/coin.jpg"
 }
